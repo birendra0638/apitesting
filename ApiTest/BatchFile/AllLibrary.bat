@@ -1,4 +1,4 @@
-pip3 install requests
-pip3 install pytest
-pip3 install jsonpath
-pip3 install openpyxl
+call pip install requests
+call pip install pytest
+call pip install jsonpath
+call pip install openpyxl
