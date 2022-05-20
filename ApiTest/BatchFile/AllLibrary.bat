@@ -1,4 +1,4 @@
-call pip install requests
-call pip install pytest
-call pip install jsonpath
-call pip install openpyxl
+pip install requests
+pip install pytest
+pip install jsonpath
+pip install openpyxl
